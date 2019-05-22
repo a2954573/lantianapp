@@ -16,10 +16,10 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>com.JYWL.AppFo30</string>
-				<key>CFBundleInfoDictionaryVersion</key>
-				<string>6.0</string>
+				<key>bundle-identifier</key>
+				<string> com.JYWL.AppFo30</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
